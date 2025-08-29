@@ -1,4 +1,4 @@
-# Дашборд анализа погодных условий за 2023 год
+# Дашборд. Анализ погодных условий за 2023 год
 
 [![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=000)](https://cloud.yandex.ru/services/datalens)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
